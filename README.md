@@ -6,6 +6,10 @@ Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introdu
 
 useFetch(url,form)执行一次post请求后，form中数据发生变化时，useFetch(url,form)会重复执行多次
 
+![image-20230102203010018](./Snipaste_2023-01-02_20-26-56.png)
+
+![image-20230102203010018](./Snipaste_2023-01-02_20-28-36.png)
+
 ## Setup
 
 Make sure to install the dependencies:
