@@ -2,6 +2,10 @@
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
+## bug
+
+useFetch(url,form)执行一次post请求后，form中数据发生变化时，useFetch(url,form)会重复执行多次
+
 ## Setup
 
 Make sure to install the dependencies:
